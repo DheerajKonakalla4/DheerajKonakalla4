@@ -1,7 +1,4 @@
 # Hi there, I'm Dheeraj Konakalla 👋
-
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DheerajKonakalla4&show_icons=true&theme=radical)
-
 ## About Me
 
 I'm a passionate software developer with a love for learning and building innovative solutions. I have experience in various programming languages and frameworks, and I enjoy working on both front-end and back-end development.
@@ -23,7 +20,7 @@ I'm a passionate software developer with a love for learning and building innova
 
 Here are a few projects I've worked on:
 
-1. **[Project Name](Project Link)** - Brief description of the project.
+1. **[Disaster Management System](https://github.com/DheerajKonakalla4/-Disaster-Management-System.git)** - Disaster Management System designed to facilitate efficient and effective disaster response, recovery, and preparedness. This project integrates a Python backend with a user-friendly frontend built using HTML and CSS.
 2. **[Project Name](Project Link)** - Brief description of the project.
 3. **[Project Name](Project Link)** - Brief description of the project.
 
@@ -32,6 +29,9 @@ Here are a few projects I've worked on:
 - 📧 Email: [dheerajkonakalla0412@gmail.com]
 - 💼 LinkedIn:[http://www.linkedin.com/in/dheeraj-konakalla]
 - 🌐 Website: [https://sites.google.com/srmist.edu.in/dheeraj-konakalla/home]
+
+## Github Stats
+![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DheerajKonakalla4&show_icons=true&theme=radical)
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect!
 
