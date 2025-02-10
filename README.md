@@ -22,7 +22,6 @@ Here are a few projects I've worked on:
 
 1. **[Disaster Management System](https://github.com/DheerajKonakalla4/-Disaster-Management-System.git)** - Disaster Management System designed to facilitate efficient and effective disaster response, recovery, and preparedness. This project integrates a Python backend with a user-friendly frontend built using HTML and CSS.
 2. **[E-voting system](https://github.com/DheerajKonakalla4/E-voting-system-.git)** - A Basic E-voting system developed using python programming language.
-3. **[Project Name](Project Link)** - Brief description of the project.
 
 ## Get in Touch
 
